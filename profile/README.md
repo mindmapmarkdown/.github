@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../brand/mindmapmarkdown-framed-on-dark.svg">
+    <img src="../brand/mindmapmarkdown-framed.svg" width="260" alt="Mindmap Markdown logo">
+  </picture>
+</p>
+
 # Mindmap Markdown
 
 **A round-trip-stable Markdown profile for human–AI knowledge exchange.**
@@ -108,6 +115,10 @@ to disagree with it.
 
 Specification text is licensed under **CC-BY-4.0**. Code is licensed under **Apache-2.0**.
 
+## Logo
+
+The mark tells the story of this project: a cool document (**MD**, the side AI reads) and a warm structure (the map, the side people read) joined into one, leaves for thinking that expands, and two arrows for the round trip between them. The story, colors, and alignment rules are in [`brand/`](https://github.com/mindmapmarkdown/.github/tree/main/brand).
+
 ## Contact
 
 - General and specification questions — `spec@mindmapmarkdown.org`
@@ -136,4 +147,5 @@ Mindmap Markdown 문서는 **아무것도 설치할 필요 없는 단일 HTML �
 
 - 사양 텍스트: CC-BY-4.0 / 코드: Apache-2.0
 - 문의: `spec@mindmapmarkdown.org`
+- 로고 이야기 · 색상표 · 정렬 규칙: [`brand/`](https://github.com/mindmapmarkdown/.github/tree/main/brand)
 - 현재 상태: **Draft** — 공개적으로 다듬는 중입니다
